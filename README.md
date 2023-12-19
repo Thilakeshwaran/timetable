@@ -104,3 +104,4 @@ Execute the program
 ```
 
 # OUPUT
+![Screenshot from 2023-12-19 16-50-44](https://github.com/Thilakeshwaran/timetable/assets/147473132/ed0eabca-5aeb-4ff7-b5d9-ae4aba14df46)
